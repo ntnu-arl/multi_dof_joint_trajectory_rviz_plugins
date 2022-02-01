@@ -1,1 +1,3 @@
 # multi_dof_joint_trajectory_rviz_plugins
+
+subscribe and visualize a trajectory_msgs/MultiDOFJointTrajectory Message
